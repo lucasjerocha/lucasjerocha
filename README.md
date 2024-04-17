@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently doing an exchange program at the **Polytechnic University of Catalonia.**
 
-- 👩‍🎓 I’m a Industrial engineer from **University of Coimbra.**
+- 👩‍🎓 I’m an Industrial engineer from **University of Coimbra.**
 
 - 📝 I regularly write articles on [https://www.researchgate.net/profile/Lucas-Rocha-30](https://www.researchgate.net/profile/Lucas-Rocha-30)
 
