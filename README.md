@@ -4,7 +4,7 @@
 
 - 🎓 My projects on GitHub come from my **academic journey.**
 
-- 🔭 I’m currently doing an internship program at the **PRF - Gas Solutions.**
+- 🔭 I’m currently doing an internship program at **PRF - Gas Solutions.**
 
 - 👩‍🎓 I’m an Industrial engineer from **University of Coimbra.**
 
