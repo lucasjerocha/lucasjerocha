@@ -1,10 +1,10 @@
 ### Hi there 👋, I'm Lucas Rocha
 
-- 📍 Based in **Barcelona, Spain.**
+- 📍 Based in **Coimbra, Portugal.**
 
 - 🎓 My projects on GitHub come from my **academic journey.**
 
-- 🔭 I’m currently doing an exchange program at the **Polytechnic University of Catalonia.**
+- 🔭 I’m currently doing an internship program at the **PRF - Gas Solutions.**
 
 - 👩‍🎓 I’m an Industrial engineer from **University of Coimbra.**
 
