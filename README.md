@@ -2,9 +2,7 @@
 
 - 📍 Based in **Coimbra, Portugal.**
 
-- 🎓 My projects on GitHub come from my **academic journey.**
-
-- 🔭 I’m currently doing an internship program at **PRF - Gas Solutions.**
+- 🎓 My projects on GitHub come from my **academic and professional journey.**
 
 - 👩‍🎓 I’m an Industrial engineer from **University of Coimbra.**
 
