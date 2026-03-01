@@ -1,10 +1,10 @@
 ### Hi there 👋, I'm Lucas Rocha
 
-- 📍 Based in **Coimbra, Portugal.**
+- 📍 Based in **São Paulo, Brazil.**
 
 - 🎓 My projects on GitHub come from my **academic and professional journey.**
 
-- 👩‍🎓 I’m an Industrial engineer from **University of Coimbra.**
+- 👩‍🎓 I’m an Industrial engineer from **University of Coimbra and UPC Barcelona.**
 
 - 📝 I regularly write articles on [https://www.researchgate.net/profile/Lucas-Rocha-30](https://www.researchgate.net/profile/Lucas-Rocha-30)
 
