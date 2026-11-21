@@ -1,20 +1,25 @@
-### Hi there 👋, I'm Lucas Rocha
+# Hi, I'm Lucas Rocha 👋
 
-- 📍 Based in **São Paulo, Brazil.**
+**Quant at Itaú BBA | AI Engineering & Data Science | Markets & Wealth Management**
 
-- 🎓 My projects on GitHub come from my **academic and professional journey.**
+I work where quantitative thinking, data, software, and business meet. My career has taken me from engineering and cloud consulting through applied AI research and production AI products to financial markets.
 
-- 👩‍🎓 I’m an Industrial engineer from **University of Coimbra and UPC Barcelona.**
+Today, in Global Markets and Treasury at Itaú BBA, I help build a global derivatives trading platform for institutional clients. Before that, at Itaú Unibanco, I contributed to generative AI products in Wealth Management serving more than 3 million clients. At IBM, I trained and evaluated large language models.
 
-- 📝 I regularly write articles on [https://www.researchgate.net/profile/Lucas-Rocha-30](https://www.researchgate.net/profile/Lucas-Rocha-30)
+I enjoy turning ambiguous business problems into end-to-end solutions: understanding the domain, working with data and models, shaping the product, and helping technology deliver value in the real world.
 
-- 📫 You can reach me at **ljerocha@gmail.com**
+## Background
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/lucasjesusdarocha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucasjesusdarocha" height="30" width="40" /></a>
-</p>
+- **AI and finance:** AI engineering, data science, quantitative finance, Wealth Management, and markets
+- **Applied research:** Master's research on Generative AI in stakeholder management, awarded **20/20 with distinction**
+- **Education:** University of Coimbra and Universitat Politècnica de Catalunya (UPC BarcelonaTech)
+- **Earlier experience:** Renault Group, PwC, IBM, Itaú Unibanco, and Itaú BBA
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## Connect
 
+- [LinkedIn](https://www.linkedin.com/in/lucasjesusdarocha/)
+- [ResearchGate](https://www.researchgate.net/profile/Lucas-Rocha-30)
+
+---
+
+I'm always happy to talk about AI in finance, quantitative methods, and building technology for real-world problems.
